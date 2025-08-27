@@ -1,0 +1,23 @@
+# Archivos del sistema y del editor
+.DS_Store
+.vscode/
+
+# Archivos de imágenes
+*.png
+*.jpg
+
+# Archivos específicos sin extension
+General_flow
+General_flow_2
+ejemplo_formas_nodos
+affinity_matrix_2.ipynb
+affinity_matrix_3 copy.ipynb
+affinity_matrix_3.ipynb
+affinity_matrix_working_doc.ipynb
+assignationsimplex.ipynb
+assignment.ipynb
+dataupload_playground.ipynb
+graphs.ipynb
+pleaseworkagain.ipynb
+restriction matrix.ipynb
+testing_lib.ipynb
